@@ -5,3 +5,4 @@ edition = "2024"
 
 [dependencies]
 bevy = "0.15.3"
+gdt-cpus = "25.5.0"
